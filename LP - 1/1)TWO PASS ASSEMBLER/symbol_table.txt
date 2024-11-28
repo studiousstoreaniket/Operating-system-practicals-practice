@@ -1,0 +1,3 @@
+Symbol Table:
+LOOP	1
+START	0

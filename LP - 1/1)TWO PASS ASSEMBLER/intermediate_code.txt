@@ -1,0 +1,9 @@
+Intermediate Code:
+0	1000	
+1	LOAD	=5
+2	ADD	A
+3	STORE	B
+4	LOAD	C
+5	ADD	=10
+6	STORE	A
+7	END
